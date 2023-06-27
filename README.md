@@ -1,7 +1,7 @@
 
   # QR code
 
-  Live : https://hs7898753.github.io/QR-code-Component.io/
+  Live : https://hs7898753.github.io/QR-code-Component/
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
